@@ -1,4 +1,4 @@
-**DAY5 of #100daysofcode**
+**DAY6 of #100daysofcode**
 
 **Notions:**
 
